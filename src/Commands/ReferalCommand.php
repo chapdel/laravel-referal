@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Chapdel\Referal\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ReferalCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-referal';
 
     public $description = 'My command';
 
