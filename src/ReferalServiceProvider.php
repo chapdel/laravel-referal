@@ -2,9 +2,9 @@
 
 namespace Chapdel\Referal;
 
+use Chapdel\Referal\Commands\ReferalCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Chapdel\Referal\Commands\ReferalCommand;
 
 class ReferalServiceProvider extends PackageServiceProvider
 {

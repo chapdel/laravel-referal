@@ -2,9 +2,9 @@
 
 namespace Chapdel\Referal\Tests;
 
+use Chapdel\Referal\ReferalServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Chapdel\Referal\ReferalServiceProvider;
 
 class TestCase extends Orchestra
 {
